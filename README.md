@@ -1,7 +1,4 @@
-Here’s a **clean, professional README.md** you can directly use for your project (GitHub / hackathon submission). I’ve structured it to impress reviewers 👇
-
----
-
+ 
 # 📄 Malaria Detection using YOLOv8
 
 ## 🧬 Overview
