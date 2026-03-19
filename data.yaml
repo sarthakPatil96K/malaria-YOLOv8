@@ -1,0 +1,11 @@
+
+path: /kaggle/working/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: falciparum
+  1: malariae
+  2: ovale
+  3: vivax
